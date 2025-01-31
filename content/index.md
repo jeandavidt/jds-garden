@@ -10,13 +10,14 @@ I'm Jean-David, and this is my corner of the Internet.
 
 ## About me
 
-At work, I'm a [PhD researcher](https://www.zotero.org/jeandavidtherrien) interested in the intersection between wastewater treatment, metadata creation and curation, ontologies, and artificial intelligence. My research asks, "how best can we manipulate the massive amounts of data we collect into becoming actionable insights about our process?"
+At work, I'm a [PhD researcher](https://www.zotero.org/jeandavidtherrien) interested in the intersection between wastewater treatment, metadata creation and curation, ontologies, and artificial intelligence. My research asks, "how can we turn the massive amounts of data we collect into actionable insights?"
 
-While,  uh, *not-at-work*, I like photography, movies, running, coding, and learning stuff.
+While, uh, *not-at-work*, I like photography, movies, running, coding, and learning stuff.
 
 This site serves as my [[digital garden]]
 
 ---
+
 ## My other internet places
 
 You can currently reach me on these platforms:
