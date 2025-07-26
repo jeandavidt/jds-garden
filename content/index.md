@@ -1,20 +1,16 @@
 ---
-title: Well, hello there!
+title: Hello there
 date: 2025-01-26
 permalink: /hello
 tags:
 ---
-## Nice of you to drop by!
 
-I'm Jean-David, and this is my corner of the Internet.
+I'm JD, and this is a little corner of the internet I'm carving out into a [[digital garden]].
+That means anything written here isn't intended to be definitive. Like real gardens, this one is a work-always-in-progress. It uses hyperlinks to create (unforeseen) paths between ideas.
 
-## About me
+It exists because I need a place to think that is less cramped than just the inside of my skull, but not as shouty as a social media handle.
 
-At work, I'm a [PhD researcher](https://www.zotero.org/jeandavidtherrien) interested in the intersection between wastewater treatment, metadata creation and curation, ontologies, and artificial intelligence. My research asks, "how can we turn the massive amounts of data we collect into actionable insights?"
-
-While, uh, *not-at-work*, I like photography, movies, running, coding, and learning stuff.
-
-This site serves as my [[digital garden]]
+Existing on the internet (and the world, really) means you constantly come across events, ideas and content that deserve more than a cursory glance and a scroll. Hopefully, this garden can allow me to hold space for some of those things.
 
 ---
 
